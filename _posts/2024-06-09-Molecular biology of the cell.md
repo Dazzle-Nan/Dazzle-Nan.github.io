@@ -19,3 +19,7 @@ certain tissues may be resistant to the action of RNAi (for example, neurons in 
 One strategy to avoid such problems is to use multiple small RNA molecules matched to different regions of the same gene.(如何实现?)
 
 Ultimately, the results of any RNAi experiment must be viewed as a strong clue to, but not necessarily a proof of, normal gene function.(定性)
+
+cis-regulatory DNA sequences?
+
+The hybridization conditions can be set so that even a single mismatch will prevent hybridization to “near-miss” sequences.应用解决脱靶问题?
